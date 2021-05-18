@@ -42,5 +42,5 @@ base on conflux
 
 | Name | Contract Address (hex) |
 | --- | --- |
-| MoonswapRouter | 0x8a38553900e5d1f83a76c83b09522929691112d0 |
-| MoonswapFactory | 0x8c1bf1bce2e9c0a5822fd106b0aac39bf02be779 |
+| MoonswapRouter | [cfxtest:acfduzk3adw7d8b4s5ed0cmwfey0wejw4a9h61cj2s](https://testnet.confluxscan.io/address/cfxtest:acfduzk3adw7d8b4s5ed0cmwfey0wejw4a9h61cj2s) |
+| MoonswapFactory | [cfxtest:acgb16r66ny6bkpcf9jurpfm2sr9am9htev27m6g4d](https://testnet.confluxscan.io/address/cfxtest:acgb16r66ny6bkpcf9jurpfm2sr9am9htev27m6g4d) |
