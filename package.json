@@ -1,0 +1,9 @@
+{
+  "name": "MoonSwap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.0"
+  }
+}
